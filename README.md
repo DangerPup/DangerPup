@@ -4,7 +4,7 @@
 - 🌱 I am currently learning GitHub.
 - 😄 I am interested in automation with Python, .NET libraries, Generative AI, 3D printing, bookbinding, collage and skateboarding.
 - ⚡ Currently re-reading "The Beach" by Alex Garland.
-- ⚡ Recently finished reading "The Sound and the Fury" by William Faulkner
+- ⚡ Recently finished reading "The Sound and the Fury" by William Faulkner.
 
 <!--
 **DangerPup/DangerPup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
