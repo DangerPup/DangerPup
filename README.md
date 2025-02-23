@@ -4,7 +4,8 @@
 - 🌱 I am currently learning GitHub.
 - 😄 I am interested in automation with Python, .NET libraries, Generative AI, 3D printing, bookbinding, collage and skateboarding.
 - ⚡ Currently reading "James" by Percival Everett.
-- ⚡ Recently finished reading
+- ⚡ Recently finished reading "The Picture of Dorian Gray" by Oscar Wilde
+    - "James" by Percival Everett.
     - "The Great Gatsby" by F. Scott Fitzgerald.
     - "The Beach" by Alex Garland.
     - "The Sound and the Fury" by William Faulkner.
