@@ -1,10 +1,11 @@
 ## D A N G E R  P U P
 
-- 🔭 I am currently looking forward to Advent of Code 2024.
+- 🔭 I am currently looking forward to Advent of Code 2024 and spring time.
 - 🌱 I am currently learning GitHub.
 - 😄 I am interested in automation with Python, .NET libraries, Generative AI, 3D printing, bookbinding, collage and skateboarding.
-- ⚡ Currently reading "James" by Percival Everett.
-- ⚡ Recently finished reading
+- :book: Currently reading "The Picture of Dorian Gray" by Oscar Wilde.
+- :blue_book: Recently finished reading
+    - "James" by Percival Everett.
     - "The Great Gatsby" by F. Scott Fitzgerald.
     - "The Beach" by Alex Garland.
     - "The Sound and the Fury" by William Faulkner.
